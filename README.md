@@ -92,5 +92,5 @@ print("Project root set to:", ROOT)
 ---
 
 ## ✍️ Author
-**Aaysha Sheikh**  
+**Hari Om**  
 Candidate – Junior Data Scientist (Primetrade.ai Assignment)
